@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h3 {text-align:center;}
+h2 {text-align: center;}
+h1 {text-align:center;}
+
+.word {
+    background-color: rgb(255, 103, 174);
+    color: white;
+    border: 2px solid black;
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .about {
+    background-color: rgb(255, 103, 174);
+    color: black;
+    border: 2px solid white;
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .family {
+    background-color: rgb(255, 103, 174);
+    color: white;
+    border: 2px solid black;
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .hobbies {
+    background-color: rgb(255, 103, 174);
+    color: black;
+    border: 2px solid white;
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .skills {
+    background-color: rgb(255, 103, 174);
+    color: white;
+    border: 2px solid black;
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .strength {
+    background-color: rgb(255, 103, 174);
+    color: black;
+    border: 2px solid white;
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .career {
+    background-color: rgb(255, 103, 174);
+    color: white;
+    border: 2px solid black;
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .ty {
+    background-color: rgb(255, 103, 174);
+    color: black;
+    border: 2px solid white;
+    margin: 1px;
+    padding: 1px;
+  }
+
